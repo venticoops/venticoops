@@ -1,9 +1,6 @@
 <h1 align="center">
 PLEASE READ BEFORE INTERACTING!!
 </h1>
-<h2 align="center">
-Important shit
-</h2>  
 <p align="center">
 Please don't touch me before asking, whisper to ask for anything i dont pay attention to general chat, not very comfortable with c+h but ask either way. Don't worry if u accidentally run past me/cover me for a while, accidents happen and as long as it isn't intentional it's all good!!  
 </p>
