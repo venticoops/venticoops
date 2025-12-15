@@ -5,8 +5,7 @@ PLEASE READ BEFORE INTERACTING!!
 Important shit
 </h2>  
 <p align="center">
-Please don't touch me before asking, whisper to ask for anything i dont pay attention to general chat, not very comfortable with c+h but ask either way. Don't worry if u accidentally run past me/cover me for a while, accidents happen and as long as it isn't intentional it's all good!!
- 
+Please don't touch me before asking, whisper to ask for anything i dont pay attention to general chat, not very comfortable with c+h but ask either way. Don't worry if u accidentally run past me/cover me for a while, accidents happen and as long as it isn't intentional it's all good!!  
 You can check [my discord bot's repository](https://github.com/venticoops/till/tree/main) and leave request or corrections, ty!
 </p>
 <p align="center">
