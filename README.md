@@ -1,18 +1,23 @@
-<h1 align="center">
+
+<table>
+  <tr>
+    <td>
+           <img src="https://files.catbox.moe/6yf3vv.gif"/>
+    </td>
+    <td>
+           <h3 align="center">
 PLEASE READ BEFORE INTERACTING!!
-</h1>
+</h3>
 <p align="center">
-Please don't touch me before asking, whisper to ask for anything i dont pay attention to general chat, not very comfortable with c+h but ask either way. Don't worry if u accidentally run past me/cover me for a while, accidents happen and as long as it isn't intentional it's all good!!  
+Please don't touch me before asking, whisper to ask for anything i dont pay<br>attention to general chat, not very comfortable with c+h but ask either way.<br>Don't worry if u accidentally run past me/cover me for a while, accidents<br>happen and as long as it isn't intentional it's all good!!  
 </p>
 
 <p align="center">
 You can check <a href="https://github.com/venticoops/till/tree/main">my discord bot's repository</a> and leave ideas or corrections, ty!
 </p>
 <p align="center">
-  <img src="https://media1.tenor.com/m/QBomC7ypBVsAAAAd/shadownilla-shadowvanilla.gif" />
+please <b>PLEASE DONT RP</b> WITH ME!!<br>I struggle A LOT to say NO!! that's why I state things here
 </p>
-<p align="center">
-please <b>PLEASE DONT RP</b> WITH ME!! I struggle A LOT to say NO!! that's why I state things here
-</p>
-
-
+    </td>
+  </tr>
+</table>
