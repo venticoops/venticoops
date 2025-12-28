@@ -9,7 +9,7 @@
 PLEASE READ BEFORE INTERACTING!!
 </h3>
 <p align="center">
-Please don't touch me before asking, whisper to ask for anything i dont pay<br>attention to general chat, not very comfortable with c+h but ask either way.<br>Don't worry if u accidentally run past me/cover me for a while, accidents<br>happen and as long as it isn't intentional it's all good!!  
+Please don't touch me before asking, whisper to ask for<br>anything i dont pay attention to general chat, not very comfortable<br>with c+h but ask either way. Don't worry if u accidentally run past<br>me/cover me for a while, accidents happen and as long as it isn't intentional it's all good!!  
 </p>
 
 <p align="center">
