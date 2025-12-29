@@ -1,4 +1,3 @@
-
 <table>
   <tr>
     <td>
@@ -18,6 +17,17 @@ You can check <a href="https://github.com/venticoops/till/tree/main">my discord 
 <p align="center">
 please <b>PLEASE DONT RP</b> WITH ME!!<br>I struggle A LOT to say NO!! that's why I state things here
 </p>
+    </td>
+  </tr>
+
+</table>
+<table>
+  <tr>
+    <td>
+           <img src="https://files.catbox.moe/v461ho.gif"/>
+    </td>
+    <td>
+           <img src="https://files.catbox.moe/mqn6iz.gif"/>
     </td>
   </tr>
 </table>
