@@ -12,7 +12,7 @@ Please don't touch me before asking, whisper to ask for<br>anything i dont pay a
 </p>
 
 <p align="center">
-You can check <a href="https://github.com/venticoops/till/tree/main">my discord bot's repository</a> and leave ideas or corrections, ty!
+Check my <a href="https://github.com/venticoops/till/tree/main">till</a> and <a href="https://github.com/venticoops/reze/tree/main">reze</a> repositories and leave ideas or corrections, ty!
 </p>
 <p align="center">
 please <b>PLEASE DONT RP</b> WITH ME!!<br>I struggle A LOT to say NO!! that's why I state things here
