@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-           <img src="https://media.discordapp.net/attachments/862150234859634718/1474767589111500885/IMG_4356.jpg?ex=699b0bd9&is=6999ba59&hm=8c4073307c0e7ded1257c504e28ff93987048887c76513c16860803d3ddd12c0&=&format=webp&width=800&height=800"/>
+           <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/a396777c-eee3-4634-b180-3b9944ae72ad"/>
     </td>
     <td>
            <h3 align="center">
