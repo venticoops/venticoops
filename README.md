@@ -8,7 +8,7 @@
 PLEASE READ BEFORE INTERACTING!!
 </h3>
 <p align="center">
-Please don't touch me before asking, whisper to ask for<br>anything i dont pay attention to general chat, not very <br>comfortable with c+h but ask either way.
+Please don't touch me before asking, whisper to ask for anything i dont pay attention to general chat, not very comfortable with c+h but ask either way.
 </p>
 
 <p align="center">
